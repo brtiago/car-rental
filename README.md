@@ -1,5 +1,5 @@
 <h1 align="center">
-  Sushi Ordering System
+  Car Rental System
 </h1>
 
 ## 🍣 Projeto
